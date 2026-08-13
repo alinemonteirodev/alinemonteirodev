@@ -19,8 +19,8 @@
 - SQL
 
 ---
-### 🔗 Me encontre:
-LinkedIn: https://linkedin.com/in/alinemonteirodev
+### 🌐 Me encontre:
+🔗 LinkedIn: https://linkedin.com/in/alinemonteirodev
 
 ---
 ### 🚀 Tecnologias:
