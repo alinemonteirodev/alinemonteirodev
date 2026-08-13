@@ -20,7 +20,7 @@
 
 ---
 ### 📫 Me encontre:
-LinkedIn: https://linkedin.com/in/alinemonteirodev
+🔗 LinkedIn: https://linkedin.com/in/alinemonteirodev
 
 ---
 ### 🚀 Tecnologias:
