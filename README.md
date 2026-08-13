@@ -5,9 +5,9 @@
 📧 contato@alinemonteiro.dev.br  
 
 🎓 **Formação:**
-- **Cursando:** Bacharelado em Engenharia de Software
-- **Tecnóloga:** Análise e Desenvolvimento de Sistemas
-- **Técnica:** Informática
+- **Bacharelado em Engenharia de Software | Cursando**
+- **Tecnologia em Análise e Desenvolvimento de Sistemas** 
+- **Técnico em Informática** 
 
 🌱 **Estudando:**
 - HTML
