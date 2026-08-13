@@ -4,8 +4,12 @@
 📍 Manaus - AM, Brasil  
 📧 contato@alinemonteiro.dev.br  
 
-🌱 Estudando:
-  
+🎓 **Formação:**
+- **Cursando:** Bacharelado em Engenharia de Software
+- **Tecnóloga:** Análise e Desenvolvimento de Sistemas
+- **Técnica:** Informática
+
+🌱 **Estudando:**
 - HTML
 - CSS
 - JavaScript
@@ -14,15 +18,21 @@
 - Python
 - SQL
 
-🎯 Buscando minha primeira oportunidade na área de Desenvolvimento
-
 ---
 ### 📫 Me encontre:
 [[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alinemonteirodev)  
-[[Email](https://img.shields.io/badge/Email-contato%40alinemonteiro.dev.br-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@alinemonteiro.dev.br)
+[[Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@alinemonteiro.dev.br)
 
 ---
-### 🚀 Tecnologias que estou estudando:
+### 🚀 Tecnologias:
+
+#### Front-end:
 [HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
 [CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-[JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style)
+[JavaScript](https://img.shields.io/badge/javascript-%23330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+[React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+
+#### Back-end:
+[Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
+[Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+[SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
