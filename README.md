@@ -9,7 +9,7 @@
 - **Tecnologia em Análise e Desenvolvimento de Sistemas** 
 - **Técnico em Informática** 
 
-🌱 **Estudando:**
+📚 **Estudando:**
 - HTML
 - CSS
 - JavaScript
